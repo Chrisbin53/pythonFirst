@@ -5,7 +5,3 @@ Created on 7 aout 2020
 '''
 
 
-print("Hello")
-print("test")
-print("deux")
-print("trois")
